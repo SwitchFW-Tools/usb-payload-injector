@@ -3,7 +3,7 @@
 
 A lightweight, cross-platform utility designed to inject custom payloads into Nintendo consoles via a USB-C connection.
 
-> **Note:** This repository contains the core injection logic. For the full user-friendly graphical interface tailored for the Switch 2, please refer to our flagship project: **[Switch 2 Bootstrapper](https://github.com/SwitchFW2-Tools/switch2-bootstrapper)**.
+> **Note:** This repository contains the core injection logic. For the full user-friendly graphical interface tailored for the Switch 2, please refer to our flagship project: **[Switch 2 Bootstrapper](https://github.com/SwitchFW-Tools/switch2-bootstrapper)**.
 
 ## ✨ Features
 - Supports raw `.bin` payload injection.
